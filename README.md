@@ -11,18 +11,19 @@ Create a Django-admin Interface.
 Create a static folder and inert HTML code.
 
 ## STEP 3
-Create a simple table using <table> tag in html.
+Create a simple table using `<table>` tag in html.
 
 ## STEP 4
-Add header row using <th> tag.
+Add header row using `<th>` tag.
 
 ## STEP 5
-Add your timetable using <td> tag.
+Add your timetable using `<td>` tag.
 
 ## STEP 6
 Execute the program using runserver command.
 
 # PROGRAM
+```
 <html>
     <head>
        <title > Time Table</title>
@@ -150,7 +151,7 @@ Execute the program using runserver command.
         </table>
     </body>
 </html>
-
+```
 # OUTPUT
 ![Screenshot 2024-10-14 131622](https://github.com/user-attachments/assets/fa15b54c-807c-4a46-80d1-9255da0a147b)
 
